@@ -54,7 +54,7 @@ h1 span {
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
+  background-color: #ffffffec;
   transition: all 200ms ease-in-out;
 }
 
@@ -87,14 +87,14 @@ dt span {
   height: 100px;
   object-fit: cover;
   border-radius: 50%;
-  border: 5px solid #fff;
+  border: 5px solid #1ab28a;
 }
 
 .park {
   font-size: 1.25rem;
   font-weight: 600;
   margin-left: 0;
-  color: #1ab28a; /* Coordinating green color */
+  color: #1ab28a;
 }
 
 dd {
