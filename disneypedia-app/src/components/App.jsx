@@ -21,7 +21,11 @@ function App() {
       <h1>
         <span>Disneypedia</span>
       </h1>
-      <h3>Mountains by Thrill Level</h3>
+      <h3>Disney Rides by Thrill Level</h3>
+      <h4>
+        Ranked on a scale of 1 to 5 stars, where 1 represents not intense and 5
+        represents very intense.
+      </h4>
       <dl className="dictionary">{disneypedia.map(createEntry)}</dl>
     </div>
   );
