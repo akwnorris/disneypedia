@@ -119,3 +119,8 @@ dd dl {
 dd dl .term {
   margin-bottom: 1.5rem;
 }
+
+.thrill {
+  color: #1ab28a;
+  font-weight: 600;
+}

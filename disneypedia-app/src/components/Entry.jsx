@@ -13,7 +13,7 @@ function Entry(props) {
       </dt>
       <dd className="park">{props.park}</dd>
       <dd>{props.description}</dd>
-      <dd>{props.thrill}</dd>
+      <dd className="thrill">Thrill Level: {props.thrill}</dd>
     </div>
   );
 }
