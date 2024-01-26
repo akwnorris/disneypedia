@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.1b8e213e.js",
-    "index.html": "/index.html",
-    "main.1b8e213e.js.map": "/static/js/main.1b8e213e.js.map"
+    "main.js": "/disneypedia/static/js/main.1b8e213e.js",
+    "index.html": "/disneypedia/index.html",
+    "main.1b8e213e.js.map": "/disneypedia/static/js/main.1b8e213e.js.map"
   },
   "entrypoints": [
     "static/js/main.1b8e213e.js"
